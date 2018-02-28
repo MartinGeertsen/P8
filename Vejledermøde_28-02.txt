@@ -1,0 +1,45 @@
+Vejledermøde med Christian 28/2
+
+Dagsorden:
+-Retning?
+	-spørgeskema/interview? (indskrænkning af fokusområde)
+	-usabilityevaluation
+	 (intui vs sus)
+	 sammenligne metoder
+	 istedet for boards
+_________________________________________________
+
+intui opbygget som sus, deraf en god sammenligning? måske sammen med interview? udvidet sus? bruge think aloud?
+
+expert forsøgspersoner, guitarister, husk at adskille personer i musik genre, expert forsøgspersoner giver sine egne problemer i forhold bl.a. think aloud
+
+segmenter produkt i forhold til musik genre
+
+logistik i forhold til hvor og hvornår forsøg skal holdes, lokale øvelokaler (nordkraft, musikkens hus)
+
+between subject ville nok være bedst pga. genre
+
+SKAL HAVE FUNDET ET INITIERENDE PROBLEM FOR At FINDE EN PROBLEMSTILLING!
+
+perifær interaktion, working memory, opmærksomhed, ergonomi?
+
+indledende ville nok passe bedre med spørgeskema da det er bredere en interview, interview er nok for snevert pga. brugere fra forskellige genre, og musikere har meget forskellige holdninger
+
+høst erfaring fra TC efter hvem er deres brugere
+
+kan godt generalisere til guitarister da man kan kigge på potentielle brugere af multieffekt board
+
+pas på med at låse os fast på specifik produkt, find ud af hvilke ting der er vigtigt er have på et multieffekt board
+
+bredbruger undersøgelse er EN mulighed, andre muligheder??
+
+spørg pedal brugere hvorfor de ikke har et multieffekt board istedet for deres pedaler?
+
+vigtigt selv at tage ejerskab over projektet, og gøre hvad vi vil, før vi tænker over hvad TC gerne vil have vi laver
+
+Før spørgeskemaet laves skal der findes ud af en problemstillig
+
+fra spørgeskema spørg til hvad er vigtigt på et effekt board
+
+skal kunne argumentere for hvor vores motivation kommer fra
+
