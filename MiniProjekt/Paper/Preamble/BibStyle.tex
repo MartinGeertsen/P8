@@ -1,0 +1,31 @@
+% Setting up BibLaTeX
+\usepackage[
+backend=biber,
+sorting=nty,
+style=authoryear,
+citestyle=authoryear,
+maxnames=2,
+date=iso8601, %Date format YYYY/MM/DD
+urldate=iso8601 %Date format YYYY/MM/DD
+]{biblatex}
+
+\addbibresource{Bibliography/Bibliography.bib}
+\ExecuteBibliographyOptions{firstinits=true,maxnames=2}
+
+\setlength{\bibitemsep}{12pt}
+\setlength{\bibhang}{0.2cm}
+
+\AtBeginBibliography{
+  \renewcommand*{\multinamedelim}{\addsemicolon\space}
+  \renewcommand*{\finalnamedelim}{\addsemicolon\space}
+}
+
+\usepackage{xpatch}
+\xpretobibmacro{author}{\mkbibbold\bgroup}{}{}
+\xapptobibmacro{author}{\egroup}{}{}
+\xpretobibmacro{bbx:editor}{\mkbibbold\bgroup}{}{}
+\xapptobibmacro{bbx:editor}{\egroup}{}{}
+
+\renewcommand*{\labelnamepunct}{\mkbibbold{\addcolon\space}}
+
+%\nocite{*} %Typeset all entries in .bib file, even if not used in document

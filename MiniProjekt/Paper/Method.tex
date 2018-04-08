@@ -1,0 +1,15 @@
+\section{Method of analysis}
+\label{Method of analysis}
+First the dataset is analysed for stochastic transitivity violations, this covers:\newline
+Weak stochastic transitivity (WST) which holds if:\newline
+\indent $p_{ac}$ $\geq$ 0.5, (violation if $p_{ac}$ < 0.5)\newline
+Moderate stochastic transitivity (MST) which holds if:\newline
+\indent $p_{ac}$ $\geq$ min($p_{ab}$; $p_{bc}$), (violation if $p_{ac}$ < min($p_{ab}$; $p_{bc}$))\newline
+Strong stochastic transitivity (SST) which holds if:\newline
+\indent $p_{ac}$ $\geq$ max($p_{ab}$; $p_{bc}$), (violation if $p_{ac}$ < max($p_{ab}$; $p_{bc}$))\newline
+This was tested using a script written in MATLAB which tested for all three types of transitivity violations.
+Generally there are no set rules for what too many violations are, but they give and indication of whether you should or should not continue with the making of you model.
+The first model used in this study was a BTL model which is one of the probabilistic choice models that the study group has tried before, but it was found that the fit was poorly and had a p-value of 0.0055 where the minimum value should be at least 0.1. 
+The model used instead is preference tree, which is good for data with more then one attribute. Some different tree structures has bin tried, and the one with the greatest fit is chosen, and the MATLAB script used is shown following page, where M is equal to the dataset shown in \autoref{tab:HealthRiskMatrix}.
+\newpage
+\lstinputlisting{rusmidler.m}

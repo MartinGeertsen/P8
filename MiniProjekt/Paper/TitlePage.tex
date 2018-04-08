@@ -1,0 +1,45 @@
+% OBS: Many of the commands in this document rely on definitions from another tex-document (Metadata.tex) prior to this one
+%
+\newcommand*\hrulefillvar[1][0.4pt]{\leavevmode\leaders\hrule height#1\hfill\kern0pt}
+\newgeometry{left=2cm,right=2cm}
+
+\newcommand\printtitle{{\centering \thetitle \par}}
+
+\makeatletter% Author
+\newcommand\printauthor{
+    {\centering \large \@author}}				
+\makeatother
+
+\title{	\normalsize \textsc{\semestername} %Subtitle of the document
+	\\[1.5cm]% 2cm spacing
+	\hrulefillvar\\
+	\LARGE \textbf{\MakeUppercase{\projectname\\\projectnameextension}}\\
+	\hrulefillvar[1mm]\\
+	\normalsize \finishdate\ \finishyear% The date of completion
+}
+\author{
+	\studyname, \groupname\\
+	\institutionname, \universityname\\
+    \texttt{\groupemail}\\
+}
+\thispagestyle{empty}% Removes header and page numbering
+
+\printtitle% Print the title data as defined above
+
+%
+%\begin{figure}[H]
+%\noindent\makebox[\textwidth]{\includegraphics[width=\textwidth]{++FrontPageImage++}}
+%\label{fig:Forside}
+%\end{figure}
+%\noindent
+%\vfill
+
+%Abstract box
+\vspace{26pt}
+\begin{tcolorbox}[width=\textwidth,colback={xGray10},title={\textbf{Abstract:}},colbacktitle=xCyan,coltitle=xBlack]
+   \input{Abstract}
+\end{tcolorbox}
+%
+\vfill
+\printauthor% Print the author data as defined above
+\restoregeometry 
