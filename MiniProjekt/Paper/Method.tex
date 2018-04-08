@@ -59,5 +59,8 @@ This step is focusing on \textbf{Edge Extraction}. In this step the absolute cor
 \label{Step5}
 This step focus on \textbf{Eliminating Isolated Pixel}. This is done by taking the 8 neighboring pixels of a edge pixel and if any of the 8 pixels are a non edge pixel then the edge pixel is set to 1. The new results are saved in a new matrix $Z$. This is a typical example of erosion. Hereafter we look at the 8 neighboring pixels of the remaining edge pixels in $Z$. If there is 3 edge pixels in the 8 neighbors then we set all the values to 0. This is a typical example of dilation.
 
+\subsection{Transforming the math to code}
+\label{WeDidIt}
+The following code are the result of how we have implemented the mathematics from \autoref{Step1} to \autoref{Step5} as MATLAB code. In the code there are some comments describing which step were looking at. 
 \newpage
 \lstinputlisting{GrayImageDetection.m}
