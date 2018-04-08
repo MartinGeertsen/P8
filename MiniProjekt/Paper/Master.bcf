@@ -2144,5 +2144,7 @@
     <bcf:datasource type="file" datatype="bibtex">Bibliography/Bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">Baoming2016</bcf:citekey>
+    <bcf:citekey order="2">Baoming2016</bcf:citekey>
   </bcf:section>
 </bcf:controlfile>
