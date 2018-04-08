@@ -1,5 +1,63 @@
 \section{The algorithm step by step}
 \label{StepByStep}
+In this section will be focused on describing the different steps of the algorithm and how the different steps has been transformed into code. The coding is made in MATLAB. All the step are taking in acount that we have a grey scale image of dimensions of m times n.  
 
-%\newpage
-%\lstinputlisting{rusmidler.m}
+\subsection{Step 1}
+\label{Step1}
+The first step step is focusing on \textbf{Grey Absolute Correlation Degree Model}. The first equation $K_0$ is the reference sequence and $K_i$ is the comparative sequence. This means that $K_0$ is the first row of pixels, while $K_i$ is all the pixels.
+ 
+\begin{equation}
+K_0={K_0(s),s=1,2,...,n}
+\end{equation}
+\begin{equation}
+K_i={K_i(s),s=1,2,...,n,i=1,2,...,m}
+\end{equation}
+hereafter we initialize the data. This is done by dividing each row with the first pixel of the row. Which is seen in the two equations below.
+\begin{equation}
+K'_0={\frac{K_0(s)}{K_0(1)},s=1,2,...,n}
+\end{equation}
+\begin{equation}
+K'_i={\frac{K_i(s)}{K_s(1)},s=1,2,...,n,i=1,2,...,m}
+\end{equation}
+Then we calculate the absolute correlation coefficient between $K'_0$ and $K'_i$, which is done with the following equation.
+\begin{equation}
+r(K'_0(s),K'_i(s))=\frac{1}{1+|(K'_0(s+1)-K'_0(s))-(K'_i(s+1)-K'_i(s))|}
+\end{equation}
+After calculation the coefficient, we calculated the absolute degree of it.
+\begin{equation}
+R(K_0,K_i)=\frac{1}{n-1}\sum\limits_K=1^n-1 r(K'_0(s),k'_i(s))
+\end{equation}
+
+\subsection{Step 2}
+\label{Step2}
+This step is focused on \textbf{Grey correlation degree image}.
+Results from R are used to make a comparative matrix as shown in the equation below
+\begin{equation}
+K_i=[I(i,j),I(i,j+1),I(i+1,j+1),I(i+1,j-1),I(i+1,j),I(i-1,j),I(i-1,j+1),I(i,j-1),I(i-1,j-1)]
+\end{equation}
+
+\subsection{Step 3}
+\label{Step3}
+This step is focusing on the \textbf{Adaptive Threshold Calculation Based on
+Human Visual Characteristics}. The purpose of this step is to make the threshold dependent of how sensitive the human eye is to the level of grey scaling. This is based on another study, showing that the human eye is more sensitive to some levels of grey. This results in three differential equations that take the mean value of the 9 pixels described \autoref{Step2}. Depending on the mean value only one of the following differential equations are used.
+\begin{equation}
+x\epsilon[0,48]  \frac{d_y}{d_x}-\frac{3y}{x}+30=0
+\end{equation}
+\begin{equation}
+x\epsilon(48,206]  \frac{d_y}{d_x}-\frac{3y}{x}+0.081397x-3.325108=0
+\end{equation}
+\begin{equation}
+x\epsilon(206,255]  \frac{d_y}{d_x}-\frac{2y}{x}+0.003193x^2 -595.896710=0
+\end{equation}
+The values from the the differential equations is the stored in a new matrix $T$. All values in $T$ which are between 0 and 1 is kept, while for all values greater then 1 are the integer part is removed, so that they also are between 0 and 1. The values are then stored in a final threshold matrix $T_1$ 
+
+\subsection{Step 4}
+\label{Step4}
+This step is focusing on \textbf{Edge Extraction}. In this step the absolute correlation degree $R$ are compared with the final threshold matrix $T_1$. For every pixel in $R$ that are smaller then the corresponding pixel in $T_1$ the value are set to 0, which means it is a edge, otherwise the value are set to 1. This should result in a threshold matrix $I_1$ whit all edge pixels being 0 and all non edge pixels 1.
+
+\subsection{Step 5}
+\label{Step5}
+This step focus on \textbf{Eliminating Isolated Pixel}. This is done by taking the 8 neighboring pixels of a edge pixel and if any of the 8 pixels are a non edge pixel then the edge pixel is set to 1. The new results are saved in a new matrix $Z$. This is a typical example of erosion. Hereafter we look at the 8 neighboring pixels of the remaining edge pixels in $Z$. If there is 3 edge pixels in the 8 neighbors then we set all the values to 0. This is a typical example of dilation.
+
+\newpage
+\lstinputlisting{GrayImageDetection.m}
