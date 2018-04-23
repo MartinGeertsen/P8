@@ -1,0 +1,6 @@
+Heuristic evaluation Helix
+
+	All editing buttons are turn and press buttons, except the joystick but this is clearly marked
+	turning the joystick button just cycles trough all of the effects no matter where you are in the editing
+	turning the buttons under the screen really fast makes the editing number jump
+	when saving presets, feels wierd that you dont select the letters you want to use
