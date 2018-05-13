@@ -1,0 +1,50 @@
+8 headrush
+
+LAV ET NYT PRESET
+1:50 prøver at lave en ny setliste istedet for en ny rig
+
+SET EFFEKTER IND I DET NYE PRESET(AMP OG REVERB)
+
+Q:Hvordan fandt du ud af at det var en touchskærm?
+A:Der er færre knapper, så må det være en touch skærm. Når man ser hvad der er af knapper og når man ser hvad der er på skærmen, så er der en masse muligheder, så må det være en touchskærm.
+
+Q:Du regnede hurtigt ud at der var mere og du kunne scrolle, var der noget der indikerede det?
+A:Det er nok det med at der er en lille blå streg, der ligner at der er et felt mere, så de ligner at man kan scrolle op og ned. Og så justeringen er med drejeknapperne hvor der er streger der føre ud til dem.
+
+5:10 skal lave en effekt om til en anden effekt, klikker ind på effekten han vælger er lidt i tvivl om hvordan han skal gøre, trykker på delete så vælger nej. Går tilbage ud til Rig-skærmen. Går til setlisten med knappen i øverste venstre hjørne, og tilbage igen. Tager en lille pause hvorefter han så klikker ind på effekten igen, hvor han så finder den rigtige knap.
+Q:Var der noget bestemt du ledte efter, nu kan jeg se du lod være med at klikke delete
+A:Det var fordi umildbart som der stod "delete model" sletter den så hele, så man ikke kan finde den igen. Så jeg tænkte at jeg hellere lige måtte prøve noget andet.
+
+
+GEM PRESET
+
+
+VÆLG EN NY SETLIST
+
+
+ÆNDRE I OPSÆTNINGEN(PRESET PÅ ØVERSTE RÆKKE/EFFEKTER UNDER)
+
+8:13 leder efter opgaven i setliste
+8:18 leder i global settings
+Q:kan spare dig tid ved at sige det ikke står derinde.
+8:30 leder rundt i interfacet han allerede har været igennem for at finde opgaven
+8:50 kommer ind i hardware assign og leder igennem
+9:10 forsøgsleder giver hint: du kan ikke bruge skærmen til at løse opgaven, men man skal bruge de fysiske knapper.
+9:30 tager fat i "push to enter" knappen, finder ud af at man også kan navigere rundt i interfavet med den.
+10:10 finder knappen til opsætningen.
+Q:syntes du der var noget svært ved opgaven?
+A:det er nok noget med at man bliver så fokuseret på skærmen så tænker man at det hele må være derinde. hvordan man sætter det op må en menu på skærmen man skal ind i. så der bliver jeg ihverfald sådan at jeg fokusere på skærmen og glemmer helt at der også er nogle knapper at trykke på.
+
+BYT RUNDT PÅ TO EFFEKTER
+11:40 trykker på "hold for view" knappen og skifter imellem et par visnings måder.
+Q:er der noget bestemt du ville lede efter for at få dem til at bytte plads?
+A:ja måske en knap eller funktion som sagde overfør til hardware. 
+Q:du har nogle forskellige menu muligheder som du har været inde i allerede.
+
+
+ÆNDRE FARVEN FOR EN SWITCH
+
+14:08 trykker ind på effekten, kommer ind i "model selector" og hopper tilbage med det samme.
+14:25 trykker på en farve og så på en effekt
+Q:den farve du ændrede da du trykkede på rød var din presets farve.
+
