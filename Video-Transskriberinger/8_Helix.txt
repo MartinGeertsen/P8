@@ -1,0 +1,107 @@
+8 helix
+
+LAV ET NYT PRESET
+A:der er et eller andet der siger mig at det ikke er en touchskærm
+Q:hvad for dig til at tænke det?
+A:der er nogle flere knapper, og det er som om at man kan se det hele, og der ikke der nogle ting uden for skærmen.
+
+1:00 trykker på menuknappen 
+1:08 drejer på "preset" knappen og finder ud af at den skifter gennem alle presets.
+1:22 trykker flere gange på menuknappen
+1:38 drejer på en af indstillings knapperne
+1:41 trykker et par gange på "AMP" knappen
+1:44 trykker på "hjem" knappen
+1:50 trykker på "action" knappen
+Q:hvad er det du vil lede efter?
+A:et eller andet hvor der står sådan noget med noget new preset eller sådan noget.
+Q:jeg kan afsløre at i denne her er det sat op i mapper hvor i den anden var det sat op i setlister.
+2:14 trykker på "menu" knappen igen
+2:25 trykker ind på command center
+2:40 trykker på "amp" knappen igen.
+2:49 trykker på "action" knappen igen.
+2:52 trykker på "menu" knappen igen.
+3:01 trykker ind på global settings
+Q:du har være i gang med den rigtige knap, men knapperne har flere funktioner, det er både dreje og tryk knapper.
+3:18 begynder at dreje på alle knapperne under skærmen.
+3:32 trykker frem og tilbage på "page" knapperne
+3:47 trykker på "menu" knappen
+3:55 trykker sig in på global settings
+3:57 drejer på "presets" knappen
+3:58 drejer på "joystick" knappen
+
+4:12 drejer på "preset" knappen
+4:17 drejer på "joystick" knappen
+4:23 drejer på "preset" knappen
+4:33 trykker på "preset" knappen
+4:38 trykker på "menu" knappen
+4:54 drejer på "preset" knappen
+5:06 trykker på "<- page" knappen
+5:08 drejer på "preset" knappen
+Q:du kan bruge knapper ovre til højre som et joystick
+
+SET EFFEKTER IND I DET NYE PRESET(AMP OG REVERB)
+
+5:58 trykker på "amp" knappen
+6:30 drejer på "preset" knappen og for slettet det hele
+
+Q:det virker som om at efter du læste "pres joystick to" så køre det mere glidende
+A:ja, man skal lige finde ud af at det er et joystick. Det kan man selvfølgelig godt på de pile der er rundt om.
+Q:men det var ikke det første du lige lagde mærke til.
+A:nej, nej det tænkte jeg ikke lige over.
+
+8:56 trykker på "joystick" knappen, er ikke sikker på han skal herind
+A:er der ikke en knap hvor man kommer tilbage uden at lave om på noget?
+Q:hjem knappen virker som en tilbageknap
+A: når ja selvfølgelig
+9:31 trykker på "preset" knappen
+9:42 trykker på "action" knappen
+Q:du opdagede at der var mulighed for at skifte mellem nogle sider
+A:ja der var lige to prikker, der må være en ekstra side
+
+GEM PRESET
+
+10:25 drejer først på "preset" knappen derefter på "joystick" knappen
+10:31 trykker på "joystick" knappen for at vælge bogstav
+11:03 trykker igen på "joystick" knappen for at vælge bogstav, hvorefter han husker sig selv på at man ikke skal trykke på den.
+Q:hvad er din umildbare tanke når du er igang med at skrive presetets nye navn?
+A:jamen det virker også umidlbart besværligt. det er ikke så ligetil synes jeg.
+Q:du kan også bare lade navnet være som det er, da du har været interaktionen igennem
+
+VÆLG EN NY SETLIST
+12:04 trykker på "menu" knappen og går ind i global settings
+
+ÆNDRE I OPSÆTNINGEN(PRESET PÅ ØVERSTE RÆKKE/EFFEKTER UNDER)
+Q:opgaven er en af de svære opgaver
+A:det ser ikke ud til at der er nogle funktioner hernede.
+13:04 går ind i menuen og ind i footswitch assign
+13:16 går ind i menuen og ind i controller assign, og begynder at dreje på joysticket, og trykker på page knappen et par gange.
+Q:du var inde i to menuer den ene var footswitch assign og den anden var control, hvad var det du tænkte i forhold til at vælge dem?
+A:jamen det er jo footswitch så det kan jo have noget med dem hernede af gøre, så bare lige om det var til de enkelte, og control var egentlig dem heroppe, det kan jeg godt se. jeg tænkte med at det kunne være noget med at bytte rundt på dem hernede.
+Q:men det er heller ikke helt forkert kan jeg så fortælle, der er en af de andre menupunkter der kan hjælpe dig.
+14:34 trykker sig ind på command center
+
+14:57 trykker på joysticket hvor der ikke sker noget.
+15:20 trykker på en af drejeknapperne under skærmen.
+
+helt overasket over at han fik gjordt det korrekt
+
+BYT RUNDT PÅ TO EFFEKTER
+
+16:17 trykker ind på joysticket
+16:24 trykker på page knapper
+Q:hvad leder du så efter nu?
+A: et eller andet i forhold til at kunne flytte den, se der er måske noget(der bliver trykket på action), prøver først at dreje på joysticket.
+
+17:09 går ind i meunen og command center
+Q:nu går du ind i footswitch assign, hvad tænker du?
+A:jeg prøver at finde der hvor jeg var inde før hvor jeg havde forstærker heroppe og effekter nederst, om det var noget om det.
+Q:det var inde i global settings du gjorde det. på footswitches.
+A:det ændrede ikke noget.
+
+Q:jeg syntes du sætter tommelfingeren ved footswitch assign
+A:ja, og det igen det jeg tænker er noget med de her(peger på nederste række af footswitches)
+
+
+ÆNDRE FARVEN FOR EN SWITCH
+
+
