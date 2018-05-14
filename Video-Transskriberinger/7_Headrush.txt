@@ -1,0 +1,84 @@
+7 headrush
+
+LAV ET NYT PRESET
+0:32 det er en touchskærm det her, ser det ud til
+Q: hvad gør at du syntes det ligner en touchskærm?
+A:Der var sådan nogle plusser, og ogås fordi ellers manglede der nogle knapper syntes jeg.
+0:48 trykker ind i setlisten og trykke new
+A:når det var en setliste den der
+1:05 trykker på rig navnet
+
+
+SET EFFEKTER IND I DET NYE PRESET(AMP OG REVERB)
+
+2:15 der var decay, tone og predelay og det var ikke nok, så skal vi have fat i nogle flere indstillinger.
+2:20 trykker på routing knappen
+2:30 prøver at swipe scrolle på indstillingerne
+
+2:58 jeg prøver at holde fingeren nede og se hvad der sker. og der skete ikke noget.
+3:14 trykker på options
+3:22 trækker i effekten og finder ud af at man kan flytte den
+3:30 trækker effekten ned på out og får dobblet klikket på out.
+A:det tror jeg sgu ikke jeg kan finde ud af.
+Q:jeg skulle lige til at sige at du kan dobbelt klikke på effekten, men så prøvede du lige selv
+3:58 sletter effekten istedet for at erstatte
+
+GEM PRESET
+
+Q:hvordan syntes du selv der er at bruge den her save, da du selv nævnte ved helixen at det var noget bøvl
+A: det her er meget bedre, da man bare kan skrive med tastatur
+
+VÆLG EN NY SETLIST
+
+
+
+ÆNDRE I OPSÆTNINGEN(PRESET PÅ ØVERSTE RÆKKE/EFFEKTER UNDER)
+
+A:vi skal se om vi kan få fat i en eller anden form for system
+5:45 trykker på options
+5:53 går ind i global settings
+6:10 går ind i hardware assign
+6:22 trykker options
+Q:nu har du haft kigget i de menu punkter der er mulige, hvor kunne du ellers tænke der er?
+A:jeg går lige tilbage til globale settings for at se om der skulle være flere sider.
+6:43 trykker på routningen
+6:50 trykker på tail to gange
+6:55 trykker på push to enter knappen
+7:03 går ind og ud af setliste
+Q:den her opgave kan du egentlig klare uden brug af skærmen. du skal bruge nogle af de fysiske knapper der er til rådighed.
+7:20 trykker på en footswitch, finder ud af at den bare laver bypass
+7:40 holder en tom footswitch nede
+7:44 holder en brugt footswitch nede og finder handsfree mode
+Q:her kan man lave editering med expression pedalen
+A:okay. Det ville være fint nok hvis man kunne komme ud igen. Når der, exit.
+Q:du har to knapper man kan holde inde, hvor den ene er tuner og den anden kan så ændre view
+A:når, ja, okay, view det er sådan noget.
+Q:havde du set at der stod noget ved den knap.
+A:ja jeg havde godt set at der stod noget. men jeg knyttede ikke lige til det at det havde noget med layoutet af knapperne af gøre
+
+
+BYT RUNDT PÅ TO EFFEKTER
+
+9:03 A:nu lagde jeg jo mærke til før at man kan trække i dem.
+9:29 prøver at holde view knappen nede
+A:ja, det er jo et godt spørgsmål
+Q:du har været inde i muligheden
+A:den anden var sådan noget med at man skulle røre ved den. Det var den her ikke
+10:00 trykker på tail nogle gange
+A:den er godt nok irriterende den her.
+10:25 A:de der svare jo ihvertfald til dem her
+
+
+ÆNDRE FARVEN FOR EN SWITCH
+
+10:46 går tilbage ind i hardware assign for at finde ud af om det er der man gør det
+10:51 trykker på en effekt
+11:02 prøver at vælge en effekt med push to enter knappen istedet for touch
+A:der er en farve her
+Q:men det er så rig'ets farve
+11:12 prøver at holde nede på en effekt
+11:18 prøver at trykke på en footswitch og så på en af farverne
+A:det er ikke noget med det her, det havde jo ellers da været nærliggende. altså det må jo være det.
+Q: du har på et tidspunkt været inde i et område hvor du havde den enkelte pedal. hvis du kan huske hvordan du kom derind, det var derinde hvor du slettede en pedal.
+
+A:det var egentlig lidt sjovt fordi der var nogle ting der var noget nemmere på den her, men det der med de der footswitches var da helt hen i vejret.
