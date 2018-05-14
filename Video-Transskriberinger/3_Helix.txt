@@ -1,0 +1,98 @@
+3 helix
+
+A:har aldrig prøvet den før, er fuldstændig på bar bund
+
+LAV ET NYT PRESET
+
+1:14 leder efter et sted der står preset og det gør der oppe ved knappen, går ud fra at den vælge presets der allerede er i systemet
+1:23 drejer på preset knappen
+1:30 og save vil gemme ændringer du har lavet til nuværende presets vil jeg tro.
+1:36 trykker på menu, tror det er noget til det nuværende preset
+1:43 trykker på hjem og konstatere at den leder til preset startsiden
+A:hvis jeg skulle starte helt fra bunden ville jeg forvente der ville være et eller andet sted der bare hed blank. og hvis man skulle gå efter numereringen, hvilket jeg ville have gjordt. så det jeg faktisk ikke lige umildbart. 
+2:12 trykker på menu, det syntes jeg ligner ting der er beregnet til det her preset. Jeg vil have forventet at dreje på de her knapper ville have gjordt noget. Jeg ville have forventet det var touch ligesom at vise et barn en gameboy, so trykker de også på skærmen.
+2:48 trykker på hjem.
+Q:af de her ovre hvor der står preset så er der-
+2:53 trykker på preset knappen, og drejer på den
+A:ved ikke hvordan jeg kommer over til mapperne til venstre.
+Q:du har muligheden for at styre rundt i de her, på skærmen med andre knapper end den du har ude i venstre side.
+
+
+SET EFFEKTER IND I DET NYE PRESET(AMP OG REVERB)
+
+3:30 begynder med at dreje på joysticket før opgaven bliver givet, og efter opgaven er givet fortsætter derfor med at dreje på joysticket
+Q:find amp divided duo
+A:den skal jo så stå under "D", men det står jo ikke så det overhovedet giver mening
+
+5:12 clicker på effekten
+A:det må jo så være de her. Men så skal vi nok ind og finde noget andet
+5:25 trykker på preset knappen
+5:34 trykker ind på en effekt
+5:39 Der ser ud til at der er noget ekstra, og hvordan man kommer over til det kan jeg sgu ikke lige svare på.
+5:43 clicker ind på effekt
+5:49 det er ligesom det indikere at der er nogle ekstra ting man kan gå til
+
+
+GEM PRESET
+
+6:57 finder hurtigt ud af at klikke fra side til side 
+7:02 beslutter sig for et navn til presetet, men giver op efter et par bogstaver
+7:15 skal finde ud af hvordan man får klikket gem inde i gem funktionen. ville have forventet at man kunne gå ned med joysticket på en eller anden måde.
+7:33 man skal lige forstå at knapperne også er tryk sensitive.
+
+VÆLG EN NY SETLIST
+
+7:44 trykker på hjem et par gange
+
+ÆNDRE I OPSÆTNINGEN(PRESET PÅ ØVERSTE RÆKKE/EFFEKTER UNDER)
+
+8:37 griber fat i joysticket og rykker ned på anden linje i presetet og spørger om man skal tilføje
+Q:nej det er noget man gør inde i nogle andre menupunkter
+A:uuh ha, nu bliver det advanced. det har jeg ingen idé om.
+9:00 klikker rundt med joysticket
+A:så man skal have dem vist på en anden måde.
+Q:ja men det kommer ikke til at ændre sig på skærmen som sådan.
+9:17 trykker på bank footswitches
+9:27 trykker på amp knappen, men det ved jeg sgu ikke hvordan.
+Q:hvis du trykker på menuknappen, så får du nogle muligheder.
+A:ahh ja, så kan man sige et eller andet der på footswitch assign måske.
+Q:så assigner du hvad for en footswitch der står for amp'en
+9:50 bruger joysticket til at gå til en anden effekt
+Q:hvis du så igen går ind i menuen så er der andre end footswitch assign du kan bruge til det.
+10:10 går ind i controller assign, begynder at skrue på controller, han kan se en parameter der hedder footswitch som ændres, men der sker ikke noget ved selve footswitchesne.
+10:33 prøver at skifte til en anden effekt for at få det til at virke.
+10:37 klikker på controller knappen
+10:39 klikker på joysticket
+10:43 går tilbage til menuen og ind i controller assign, begynder at dreje på controller, og forventer at den skulle komme til at stå nede ved footswitchesne.
+Q:hvis du går ind i menuen igen, og under global settings, har du mulighed for at sætte det op under en af de andre.
+A:displays?
+Q:det er under footswitches
+11:18 prøver først at dreje på joysticket for at vælge en anden menu
+Q:så har du sat det op på den måde
+A:det syntes jeg godt nok var ikke intuitivt, på den måde
+
+BYT RUNDT PÅ TO EFFEKTER
+
+12:33 trykker på joystick
+A:altså det jeg kunne gøre var at bare være den anden her og finde den under effekter, men så er jeg ikke sikker på at de settings jeg har valgt følger med. måske man kan flytte den på en eller anden måde.
+
+A:og så skal jeg flytte dem hernede
+Q:jep fordi de følger ikke med.
+Q:jeg kan så afsløre at du allerede har været inde i de indstillinger.
+A:det må så være, enten footswitch assign eller controller assign
+13:20 klikker ind på footswitch assign.
+
+ÆNDRE FARVEN FOR EN SWITCH
+
+A:jeg har set det et sted før.
+14:23 går ind i menu, og ind i global settings
+14:38 går ind til displays, det var bare noget med hvor lyst de er
+Q:når du er derinder er det noget med overall indstillinger
+14:54 trykker menu
+14:55 trykker preset knap to gange
+15:01 trykker på joystick, i leden efter indstillingerne til den enkelte footswitch
+A:(sukker) pas.
+Q:hvis du under assign, footswitch assign, som du har været inde under tidligere
+A:yees, og customize
+
+
