@@ -1,0 +1,246 @@
+FP 5 - 1 - Helix
+[08.28]
+diserable ud fra UI mæssigt synspunkt desirable ja altså det kræver bare at man sætter sig ind i det og accepterer at det er lidt dumt
+
+[10.57]
+De har noget rigtig fint i deres grafiske design at knapper så desværre ikke syntes jeg understøtter funktionaliteten af knapperne ikke altid understøtter men de har jo lavet noget der er rigtig attraktivt dejlig stor skærm 
+
+[12.30]
+Q - Hvorfor har du valgt confusing?
+A - Det er det der med at man står og hovedsageligt omkring navigationen at så har du en drejeknap og en trykknap på venstre side men så har du også en drejeknap og trykknap på højre side og nogle gange gør de det samme og nogle gange skal man starte en navigation med den ene og så skal man fuldende den med den anden knap det er lidt forvirrende hvornår er det lige man skal gøre det ene og det andet og når den til højre så er færdig med at blive brugt til navigation så skal den så også bruges inde i ens preset til at vælge ting og sager med det kunne være rart hvis man så havde kun en som man brugte til det hele eller man havde en til navigation i stisystemer og mappestrukturer og så en anden når man var inde i pressettet så man ligesom holdt de to adskildt eller 
+
+Q - Hvad gør det så ved oplevelsen at du bliver forvirret hvad gør det ved helhedsoplevelsen af helixen her
+A - Jamen det kommer til at fremstå enten ufærdigt eller useriøst på en eller anden måde det irriterrer mig at jeg ikke tydeligt kan se hvornår den ene stopper med at have en funktion og den anden overtager det er ikke det fremgår ikke tydeligt og du har heller ikke en man har ikke en tydelig fornemmelse af hvor langt inde i maven på systemet man er det er også det der med at jeg siger man kan ikke gå et skridt tilbage og nu fortalte du så at man kunne bruge hjem knappen der men hjem for mig ville i virkeligheden være en sådan en overordnet ting som de tre streger som er stisystemsfunktionen den har jo også sådan en hjem agtig følelse så der er der to forskellige der er en preset hjem og så er der en navigations stisystem hjem knap og de står to vidt forskellige steder
+
+Q - Du har sat attractive på?
+A - Ja og det er fordi at jeg syntes at det er både det visuelle og så mulighederne du har med sådan en multieffekt du har mulighederne for at skræddersy den til din egen indenfor selvfølgelig nogle givne rammer men skræddersy den efter hvordan man vil bruge den og man kan samle sine effekter enten som en hel masse presets eller som nogle presets med nogle muligheder for at have nogle pedaltilstande med nogle effekter on/off inde i dit preset og jeg syntes den er attraktiv ikke på grund af navigationen men på grund af det visuelle når man så er inde i et preset hvor man kan flytte rund på det og jeg tror man kan komme til at sidde og lave nogle gode eksperimenter og sidde og prøve sig frem så syntes jeg at det er attraktivt at den står så skarpt og at den jeg tror at når man først lærer user interfacet at kende og bruge de her touchsensitive eller kapasitative footswitches der så tror jeg ret hurtigt at man kan komme til at lave de ændringer man gør mest så på den måde er den attraktiv 
+
+men jeg har så confusing også fordi man kan ikke rigtig huske hvordan man gjorde sådan lige jeg tror de handlinger man gør ofte de kommer til at sidde som reflekser men når man så skal til at lave et eller andet man ikke plejer at gøre så er der ikke nogen let måde at finde ud af hvordan dælen man lige gjorde det og så skal man enten ty til en manual eller et eller andet andet tro jeg 
+
+Q - Du har også unpredictable
+A - Ja og det er lidt det der med hvor man lige skulle finde tingene henne det var lidt for mig igen man skal jo også lige lære termerne idenfor et nyt produkt men hvor hvordan man lige skulle ja jeg prøvede mig sådan frem ved en lille smule ved at trykke på de forskellige ting og det kom lidt bag på mig hvor man lige skulle finde altid med at skifte LED farve på en effekt og det der så der var nogle ting som jeg syntes var lidt uforudsigelige med hvordan man og det peger også lidt tilbage på navigationen at det er lidt uforudsigelig når den ene navigationsknap gør det ene og den anden gør noget andet
+
+Q - Hvis du hurtigt lige kunne knytte nogle ord til de to sidste overwhelming og advanced?
+A - Ja altså overwhelming er det der med at den kan jo mange ting så når man er helt ny overfor sådan en så ved man jo nærmest ikke hvor man skal starte og begynde med at editere eller begynde med bare at bruge den næsten og få et overblik over hvad den egentlig kan den er overvældene i alle de muligheder man pludselig har og hvis du vælger og ikke bare bygger videre på et eksisterende når man nu får fundet ud af hvordan man kommer hen til et nyt preset så står man der helt blank og så er man sådan lidt nåh okay hvordan vil jeg bygge det her op men jeg ser det jo også som en god det er så vanskeligt at lave et advanced produkt uden at det bliver en lille smule overwhelming fordi man har så mange muligheder så jeg syntes tit at de to ting hænger meget godt sammen jeg tror ikke på at man kan lave et rigtigt advanceret system du kan godt lave et rigtigt advanceret system som ikke er overwhelming men så har du bare heller ikke særligt mange individuelle muligheder i det og så er det meget låst så det er en hårfin balance og jeg syntes umiddelbart at de har lavet en god adskillelse altså at det var at man kunne få en god oversigt ved og de har individuelle skærme for hver footswitch og de har farvede LED'er og de har en god navigationsskærm men der hvor det fejler er selve navigationen
+
+
+FP 5 - 2 - Headrush
+[00.10]
+Ja jeg syntes det er rigtigt med touchscreenen det er også let at sige jeg ved headrushen kom senere end helixen så de har sikkert købt sådan et par stykker og skilt dem fuldstændig af og fundet ud af hvad de kunne lide og hvad de ikke kunne lide
+[01.15]
+Well integrated Ja bare lige indtil at jeg skulle skifte over til hybrid så var jeg lost
+[03.55]
+Jeg syntes den her var lettere at forklare og forstå men den virker så også måske fremstår den måske knap så avanceret på en eller anden måde eller også er det bare bedre organiseret
+[05.45]
+Nej men det var lidt mere det var lidt mere trivielt fordi at de har heller ikke det virker ikke rigtig som om at der den virker heller ikke som om at deres effekter og ting og sager når man så skal vælge der kan man sige pludset ved line6 var at de der følte man ligesom at der var masser af forskellige mulighedder og der var masser man kunne bladre igennem og alt muligt forskelligt af reverbs og det føltes virkelig og her for man følelsen som om det er et lidt mindre udvalg så det bliver sådan lidt mere det er fedt at man kan lave alle de her ting men udvalget virker måske ved første indtryk lidt mindre og det var også sådan lidt mere naturligt at bruge det 
+[06.45]
+altså det var positivt med touchinterfaset men når man trykker på deres footswitches så savner man dem fra line6 fordi de er lidt hårdere og der er længere vandring det føles lidt mere men det er selvfølgelig ikke så meget UI design som sådan men det har altså også (det er en del af oplevelsen) det er en del af oplevelsen ja
+[08.15]
+Headrush mit umiddelbare indtryk af den er at den virker som om den jo ikke den ser ikke helt så skarp ud i sit design den ser ikke helt så lækker ud eller så dyr ud og den er sikkert også biligere forestiller jeg mig men den har så noget andet ved at den har touchskærmen den har nogle store volumen ting som godt nok virker lidt voldsomt at der skal være en AUX og headphones lige der men det kan være at de mener at den er mere til at øve med end til at tage ud som tournerende musiker hvor line6'en måske henvender sig ved at være lidt mere ren i sit interface på den måde men de har en forfærdelig masse knapper som vi ikke helt ved hvornår vi skal bruge men jeg syntes stadig at den er attraktiv den er bare attraktiv på en anden måde
+[09.58]
+Comfortable på en eller anden måde syntes jeg faktisk godt at man kan sige det den bliver sådan lidt mere men det gør så også at den bliver lidt mere ja nu skal jeg jo passe på hvad jeg siger (for vores skyld skal du ikke passe på) 
+[10.35]
+Jeg syntes stadig væk god at man kan sige confusing men den er på en anden måde så er den lidt mere det er lidt sjovt at jeg står ikke og siger inspiring og creative på samme måde som jeg gjorde med line6'en fordi jeg tror faktisk at den der headrush at man hurtigere kunne få sat nogle rigs op men måske fordi den ikke er helt så comprehensive den har ikke helt så mange effekter og ting og sager så kan det være man bliver bange for at man er lidt begrænset i sin kreativitet ved at udvalget måske er for småt det er svært at sige men det er umiddelbart kun vurderet ud fra det grafiske indtryk men jeg syntes den øh (så du savner noget?) Ja jeg savner lidt mere at man føler når man så skal ind og vælge effekter og ting og sager at der er et lidt større udvalg eller det føles som om at der er et lidt større udvalg når man er under distortion eller whatever
+[12.40]
+Powerfull ja det er jo det det er jo en hårfin balance det kan godt komme til at se så simpelt og venligt ud at man tænker at den kan ikke noget den her og så er det først når man lærer den at kende at man rent faktisk finder ud af at den kan en masse bum det er jo faren ved det 
+
+[15.03]
+Q - Attraktiv?
+A - jamen det syntes jeg er det man bliver mødt af er nogle drejeknapper som virker umiddelbart til kun at have en funktion og det som der står de gør nu kan jeg godt se at der står press to enter det minder mere om noget man har set før og så nogle footswitches som stadig har en lille skærm og en lysdiode så man kan se at man kan få noget feedback lidt ligesom farverne på ens pedaler og så den her touchskærm det gør at den ser ud som om at den har det man skal bruge og den ser ikke helt så intimiderende ud som helixen
+
+Q - Så har du convenient
+A - Ja convenient jeg syntes de har givet dem rimelig meget plads med aux og phones men det viser da med al tydelighed at man godt kan bruge den til at jamme og øve og på den måde også bruge den i et hjemme setup eller mens man venter på toget i hvert fald et hotel værelse eller som opvarmning ude bagved så kan man bare tage sit pedalboard med og så kan man tage sin guitar og så kan man bruge headphones også eller whatever
+
+Q - Så har du inviting
+A - Ja og det er igen det der med at man ikke bliver helt så bange for at lave en fejl ved at trykke på noget forkert der er for eksempel når man har trykket på touchskærmen så er der en tilbageknap hvor på helixen der bliver man sådan lidt okay nu står jeg her hvordan kommer jeg væk det kunne godt blive sådan en og så er den inviting også med de der volumen det er sådan meget det der nu har jeg godt nok ikke sat kryds ved familiar men den ligner ligesom nåh den er man ikke så bange for på den måde inviterer den 
+
+Q - Så har du unrefined
+A - Ja det er så det der med at den virker lidt grovere på en eller anden måde om det er fordi man står og skal røre med fingrene eller udvalget ikke er så stort eller fordi footswitchene tydeligvis ikke er så på den måde de har lavet det på hvor der er et forfærdeligt langt stykke der stikker op med gevind på og man tænker var det nu også nødvendigt kunne man ikke have fået en med et kortere gevindstykke og det bliver sådan lidt rough around the edges expression pedalen er også tydeligvis lavet på en lidt billigere måde men jeg mener ikke unrefined som om jeg ikke tror at det kunne være et godt produkt fordi det kunne også godt være at det var unrefined fordi det at det ikke ville skræmme nogen væk og så kan vi lave det til en pris hvor flere folk kan være med så det beskriver det egentlig meget godt uden at være udelukkende negativt 
+
+Q - Ja og så approachable
+A - Ja approachable det er jamen det er det samme som inviting og nogle af de andre ord jeg var omkring appraochable det er den der med at det ser ud til at man godt kan gå til den altså det er touchskærm og man bliver ikke helt så bange for at lave nogle fejl og på en eller anden måde virker den også lidt mindre avanceret end line6'en og derfor er man ikke helt så bange for at blive væk i en eller anden navigation 
+
+Q - Hvis du skulle have nogle kommentarer i forhold til at sammenligne de to systemer og også sådan din oplevelse med de to systemer hvis man kan sige det på den måde
+A - Jamen altså umiddelbart vil jeg sige at de havde begge to nogle ting som jeg ikke kunne finde ud af at finde med navigationen på headrushen var det primært lige hvor man fik skiftet rundt på hvor man har sine rigs og direkte effekter og sådan noget men der havde den trods alt det var lettere at navigere på headrushen med touchskærmen men jeg kunne stadigvæk ikke altid finde det som jeg ledte efter men på helixen der var det der var navigation virkelig blevet gjort unødvendig kompleks på en eller anden måde hvor de jo egentlig har et produkt som ser rigtig flot ud og det er skarpt i designet og det er nogle kvalitetsknapper man rører ved og det ser flot ud så syntes jeg virkelig at det er ærgerligt at navigationen er så når man også har en ret flot farveskærm og nogle endnu flottere scribbles scribts de kalder dem et eller andet sjovt ved jeg den har en hel masse gode ting men jeg syntes virkelig at den snubler på sin navigation men den har et skarpt stylet look men headrushen den har det der med at man bliver ikke så bange for den og ikke så bange for at lave fejl i navigationen og det syntes jeg var et stort plus
+
+Nu har jeg jo ikke lige tjekket op på hvad de kan men umiddelbart ud fra UI punktet kan man jo ikke se om den ene kan noget andet end den anden jeg er egentlig overrasket over hvor stor forskel der var på at tilgå deres fordi et langt stykke hen af vejen er det jo det samme hvis man kommer udefra så nåh det er jo nok nogenlunde det samme men der er stor forskel på deres tilgang
+
+Q - Og hvad gjorde det at tilgangen var så forskellig
+A - jamen det gjorde jo at jeg faktisk blev helt bange for at trykke på noget i starten med line6'en fordi man blev jo lidt i tvivl om hvor man skulle starte det var jeg selvfølgelig også på headrushen da det er et nyt produkt og jeg ikke har leget med det før men det virkede ikke helt så skræmmende at gå igang og ret hurtigt kunne man få en hjem knap hvor på line6 følte man sig mere lost  okay nu bliver jeg nødt til at starte helt forfra eller finde en manual eller spørge dig eller et eller andet hvilket jeg syntes er ærgeligt fordi alt andet end lige så er det jo et meget flottere produkt
+
+
+FP 6 - 1 - Headrush 
+[00.00]
+Q - I can see that you have chosen creative can you explain why?
+A - Because right now im using for my own set a lot of individual pedals i have like 20 or something because i have chosen them carefully for their sound a delay is not just a delay its a specific one and here i dont know actually about delays but you get several so you still get a wide variety and you got with two stomps you can change a lot of things and reroute them and stuff and that is something that takes me a lot of time with standard pedals you have to wire and connect and move and remove them from the pedal board and put them back and i can just tuk tuk tuk and change them for example just what we did before you put a delay in one place and all the compressor and then you just switch them that is something that i will do because things dont sound the same and here its a tik and switch and then you can a lot of different sounds and im sure that i would try a lot more combinations than i do now because i dont have to disconnect it and everything but with this im sure at least in part that i would certainly switch things around try all the combinations and things
+
+Q - And you have also profesional?
+A - yeah it feels like i could take this to any koncert i havent heard it but it looks heavy and feels like sturdy like i can step on it and you know roll it and it would stand fine (So its robust) yeah
+
+Q - You have also chosen clean?
+A - Yeah i dont know why but it doesnt seem messy i have seen other pedal boards like boss for example boss pedal boards where you had 500 buttons and in this much space and then you had to almost use a microscope to move something you know even just a little bit to the right and it was just and it was three whole buttons and there is not that many buttons here it is reduced a lot by having the touchscreen rigt and you have a big touchscreen so its a lot easier you basicaly if you remove the buttons from for stepping on you have like three on one side and three on the other and i almost didnt have to use any of them so for me it felt clean and easy experience to just move things around
+
+Q - You also had high quality?
+A - Yeah it just looks like its good quality it has the screen the buttons this button looks solid they might be crap but i dont know they look solid and they feel like it and also this this feels like you can step on this and you wont break it at least thats how it looks i dont know how it is but it looks solid
+
+Q - Okay and the last you have chosen is powerfull
+A - Yeah (It feels powerfull) it seems like when you change things they change emediatly and i know that it might be completely stupid because it doesnt mean that it sounds good but it look like it feels solid in the sense of the software and such
+
+Q - And what with those words you have chosen the overall experience of it how could you express that?
+A - I think its good i dont think this kind of product is so easy to handle at first you need to a little bit of you know go through a learning curve to handle it and with a little bit of your help i maneged to do some things in like less than five minuttes or something like that (Something like that) which is quite something because sometimes you see other not pedal boards but other digital amplifiers where you spend like two hours until you actually dial something in and you just play with whatever sound because that was what you maneged to get like this is not what i want but whatever so that that felt good
+
+
+FP 6 - 2 - Helix
+[00.00]
+Q - Yes you have chosen high quality?
+A - yeah it looks solid same as before it just looks rugged good case like you can just use it and abuse it a little bit which is something that ends up happening so in that sense it just looks like a sturdy case you cant bend it no matter how hard you step on it of course it is how it looks doesn't mean it's gonna be build that way 
+
+Q - And flexible?
+A - Flexible agian i see that you can make all the combinations and move things around and you go into distortion for example and there is something i really like that you get mono and stereo for i think everything i tried had mono and stereo wich is really good many times you just dont have that a pedal is mono and if you want stereo you buy two but its not really stereo its two pedals you know i saw all the combinations and stuff and im guessing that the other one can do the same maybe not maybe yes but the mono stereo part is like they have actually thought it it feels like you can build any setup that you want and you get the two rows which i also like so you can end up putting all the pedals and presets and combinations and you wont feel like theres is a certain setup that i cant build so at least for the time i have spent playing with it
+
+Q - Okay relevant yes?
+A - I think that now i have seen two pedal boards and i have seen how much potential they have it is hard to imagine that this is not something that we all are going to be using sooner or later and i know that pedal boards have been around for a while but not this level i have seen pedal boards from friends and stuff but it wasnt this intuitive and it wasnt this many options you got now a screen per button now thats a good idea with colours so because at least me i tend to just look this is the blue one is chorus and the green one is distortion so the colour on the screen that is little detail and it seems like that if you are going to be serious about doing some stuff you probably dont want to carry your 500 stomp boxes every time i mean i understand that if you are van halen you dont have to carry anything yourself but if you are not that big you probably have to do it so with this i would say that it is a lot easier it feels like now that i would see being used
+
+Q - So you see this as an evolution to the normal stomp boxes?
+A - Yeah and i dont know how well it sound because we havent played it but it feels very well thought like i wouldnt expect it to sound bad because they have put so much thought into the software to make it look nice and operate and all that it doesnt mean that they are gonna sound good but you would asume that someone spent so much time on building it to look good would spend also some time making it sound good it an assumption but (Its line6 that makes helix so something must be in there) yeah people say its great i just havent played it but people say its great and it cost for what i heard a lot of money so (8000 danish i think) thats not peanuts
+
+Q - You have also chosen powerfull?
+A - yeah uhm it just looks like you get two rows and judging by the sizes of the little boxes{effect blocks} you can put what eight or something in each row so like 16 in total maybe more (you can actually also route it like this and put even more) oh wow okay so see that is power just there not only i mean the combination of paths thats of course extremely powerfull but just saying having 20 pedals that you can run i mean thats a lot and you can change those thats a big computer right there im a software guy and thats heavy stuff you can run all these things and just change the way you route them (i know there is a limitation i think it is just like bandwidth it cant handle if you just put everything in but then it is also stopping you and you wont be able to choose those) so it will tell you that you cant that makes sense 
+
+Q - And the last impersonal?
+A - Yeah i dont know why but i got this feeling with the other one that it was a lot more user friendly and i spend my day working with a computer and i felt that the tactile in dragging and dropping things were just so much more like this is what i do all the time you know with all my other devices and this felt like learning something different and i know this has got a joystick and you push it and things but you got to use like the joystick and the push button and the rotery button several individual buttons for many presets and something something and go and test the thing but you cant touch the screen so you end up just having like five or six different kinds of controls and im used to either you grab a mouse and that is your control you just click click click everywhere or with your phone you just touch it and got the control and this felt like im not used anymore to handling so many different kinds of so it felt like it is not what i not so me maybe its a stupid thing but 
+
+Q - For example i see that you say impersonal with this one and that you say that the headrush is way more personal what effect does that have on your experience when you think of the two systems how important was this impersonality?
+A - i think that in the sense of buying it a lot probably in the sense of using it in the end not so much lets say that i go to the shop and i dont know how they sound because we havent tried them actually and i havent heard them before but i would totally try this one before what is it called the headrush because it feels like im going to be able to connect with it easily and maybe then i try both because i would like it for comparison i try both and then it turns out the other one sounds ten times better then i will buy it okay but if they sound similar im certainly going to buy the headrush because it just feels like im not going to have so much trouble interacting with it and i end up having a lot of things you know i have amplifiers and pedals and things and just so i dont have to go and connect and disconnect things i would end up playing with the same sound all the time and i would buy twenty pedals that i would never use and i have tree amplifiers i just never use so i have my two sounds and thats i do so if i didnt know how well these sounded i would go for the headrush simply because it was easy to connect with 
+
+Q - If you should say something pro and con with comparing these two what should it be you have just said that if the sound is similar you would choose the headrush but is there anything else than you could easily use it was there something that made it feel like make it more suitable for you?
+A - I also like to have midi control but i guess that they both have midi control (they have) to have external things that you can control like your amplifier you know so you can trigger different chanels and things physically they look very similar although i dont know why but maybe its because this one has more colours i think it looks less profesional but at the same time i like it better because its more cheerfull and more friendly bacouse it has bright colours and big big bars of green and yellow where the other one is a little ring and it looks more for like a respectable studio you know but i just tend to like shiny things im like a fish and this is like yeah big screen yeah cool you know the screen is a lot larger and that one is not so bright and not so many colours and this is so you get a big screen flashing with big colours and it is so much easier to see and that is something that i also like and even though i actually never heard about this model im not so much knowledgable and everyones heard about the helix and i havent tried it but people talk about it that its great but other things aside if they sounded the same i like the looks of this one it looks less profesional but like a never product that they havent been manufacturing for so long and its like a new kind of design where this one is super classic with brushed aluminum and stuff but maybe a bit too cold looking for me dont know if that was your question i just talk
+
+Q - Any other questions?
+A - Besides from the look it would be a weight the weight as well and i like how heavy it is because this thing is actually big and you dont have to carry 20 pedals bit its still big and you have to put it in a box but you cant just carry it like whatever because this is very sturdy but i dont want to hit the touchscreen especially with a corner or your gonna break it and i mean this thing with a cracked screen that is terrible and im sure that you cant just replace it easily if you can it is not going to be chaep anyway i would say that the screen is a bit of a concern for me because my pedals are all like scratched and and the corners are just like you know it just happens and i can see sliding accidentally and going to step on this sliding of the footswitch and hitting this with my shoe hard and its all dark you cant see because you know its a messy stage and then kicking this hard so thats here you at least have the buttons (On the helix) but you will probably break the buttons though but the screen is not tactile so its probably more protected than this one it looks like its close like a small ipad actually
+
+
+FP 7 - 1 - Helix
+[00.00]
+Ja jeg syntes den var lidt kompleks jeg syntes der var forskellige veje ind i tingene det kunne jeg ikke så godt finde ud af 
+[00.20]
+Jeg syntes i hvert fald at det tog unødvendigt lang tid
+[00.32]
+Poor quality det skal jeg jo sige
+[00.44]
+Det ser ud til at det var fleksibelt
+
+[01.43]
+Q - Fleksibel hvorfor har du valgt den?
+A - Jamen jeg syntes det er meget fleksibelt med at man kan indsætte alle mulige forskellige effekter og vælge rækkefølge på dem og hvor de ligger på footswitches der så det 
+
+Q - Og time-consuming?
+A - Ja jeg ved så ikke om den er jeg kommer i tanke om om den er ment som om man kommer til at bruge meget tid med den men jeg syntes den tog lidt lang tid at betjene altså med nogle af tingene man skulle tænke sig lidt for meget om syntes jeg 
+
+Q - Usefull har du så alligevel også sat på?
+A - Ja for jeg syntes da helt klart at den er brugbar og den er altså det er jo nemt og have med og ud at spille og så videre hvis altså den lød ordentligt så 
+
+Q - Så har du også convenient?
+A - Jamen det er det det er altså det er nemt i stedet for at have en taske med alle mulige pedaler så er det nemt med den der og have det hele samlet syntes jeg 
+
+Q - Og approachable?
+A - Ja jeg syntes selvom det tog lidt tid så var det da til at have med at gøre det var sådan rimelig 
+
+Q - Nu nævnte du både det her med at det var fleksibelt og time-consuming hvad for en effekt har det så på din oplevelse af systemet hvad gør det sådan for din ja
+A - Ja øhm (Hvad du nu syntes om) altså det ved jeg ikke rigtigt jeg syntes det der med at lave den alt for fleksibel det er både godt men det er også nogle gange unødigt meget fleksibelt syntes jeg 
+
+Q - Syntes du den her virker unødigt fleksibel?
+A - Ikke umiddelbart men derhen af altså den kunne have været mere simpel syntes jeg
+
+
+FP 7 - 2 - Headrush
+[00.00]
+Selvom det var bøvlet at betjene så syntes jeg faktisk at det vare mere simpelt alligevel og man skulle bare lige lære det 
+[00.09]
+det var så ikke lige helt så nemt at komme igang med 
+[00.20]
+altså det er jo lidt forskelligt der var jo nogle af tingene der var nemme syntes jeg men der var altså også der var også nogle ting der var ret svære 
+[00.42]
+Jeg var nok lidt mere lost på den her faktisk på et tidspunkt så vidste jeg slet ikke hvad jeg skulle gøre
+
+Q - Hvad for en af opgaverne var det på syntes du?
+A - Det var var det den med farven eller var det den med øh med at flytte dem næh ikke at flytte dem (Formentligt den der hybrid mode) Ja det var hybrid mode
+
+Q - Det sidste du satte streg under var easy to use?
+A - Ja jeg syntes altså at den var noget nemmere at bruge end den anden men der var selvfølgelig lige nogle funktioner jeg var lidt havde lidt svært ved men overall syntes jeg at den er noget mere at den er noget nemmere at bruge 
+
+Q - Og convenient?
+A - Jamen det er det samme altså det er bare det er nemt sådan 
+
+Q - Anoying den tror jeg ikke du fik sat på den anden?
+A - Nej men det er fordi at altså det er sådan noget der jeg tror nærmest aldrig jeg ville finde det selv jo det ville jeg jeg ville selvfølgelig nok prøve at trykke på den der knap på et tidspunkt hvis man vidste at den kunne sådan noget der det syntes jeg var irriterende at jeg ikke kunne at jeg ikke bare lige kunne regne ud fordi nu havde de sådan en fin touchskærm og alt muligt hvorfor kan jeg så ikke 
+
+Q - Hvordan øh hvis du nu selv kunne vælge hvor view hvor det skulle være hvor du sætter det op?
+A - Jamen helt klart så skulle det jo være penslet mere ud hvad det er man er igang med at editere om det var hvilkets farve eller pedalens farve eller jeg syntes ikke det var sådan specielt tydeligt også det med om det var setliste jeg kom ind i som det første og det var altså ikke lige det første man skal bruge (Det har samtlige seks personer vi har testet på idag så osgså gjort) fordi det der symbol betyder jo ikke setliste på en telefon der betyder det tekst 
+
+Q - Så havde du fast
+A - Ja jeg syntes den virker som om den er hurtigere at arbejde med end den anden (sådan software mæssigt eller at den er hurtigere at arbejde med) sådan det der med at man kunne trække det rundt og ja det virkede som om at det var ellers var det måske bare fordi jeg lige var inde i og kommet lidt mere ind i det 
+
+Q - Og så har du approachable 
+A - Ja jeg synte det var nemt at gå til med de almindelige funktioner Der var noget der var lidt sværere men alt i alt så
+
+Q - Hvis du nu skulle sammenligne de to systemer her hvad for en syntes du så var bedst at arbejde med og hvad syntes du sådan er fordele og ulemeper ved dem hvis de skulle sammenlignes?
+A - Er det kun bruger (Det er kun bruger vi kigger ikke på lydbilledet) nej heller ikke hvad for en kvalitet de er lavet i så? (Det hvis du syntes det har en effekt så) Ja fordi det har jo helt klart en effekt at den her er i børstet alu den virker noget mere ja det virker bare mere solidt og dyrere og sådan noget (Havde du valgt høj kvalitet på den her) Nej men øh jo men det er helt sikkert. på brugersiden der var mit indtryk at den her havde de skåret lidt ned til benet det var lidt simplere man kunne ikke helt så mange ting og det tiltaler mig egentlig meget at (At man bliver begrænset) ja det syntes jeg fordi skal man kunne det hele det det er ikke altid så anvendeligt i hvert fald ikke hvis dem der har lavet den har tænkt over det og sørget for at de ting man kan er de vigtigste  
+
+
+FP 8 - 1 - Headrush
+[00.00]
+Q - Den første du har sat er time-consuming hvad er tanken bag det?
+A - Jamen det er i forhold til altså det er sat i kontra altså kontra almindelige analoge pedaler som jeg umiddelbart vil tænke er hurtigere at sætte op og lave justeringer på end det andet hvor man jo lige skal ind i en menu og finde de forskelige ja de forskelige ting man skal lave om på der har du på de analoge pedaler knapperne til rådighed det er bare at bøje sig ned og dreje
+
+Q - Så har du intimidating?
+A - Ja altså det er jo nok en lille smule for mig i forhold til jamen bare det der med at det hele er så øh der er så meget i den det er også derfor jeg har skrevet både kompleks og avanceret de hænger lidt sammen det der med at de kan så meget de multiboards så det bliver sådan lidt hvor hvor skal man starte henne (Det bliver uoverskueligt eller?) Ja det syntes jeg og det er igen sådan at i forhold til det der med bare at plugge et kabel i et par effektpedaler eller så ind i forstærkeren som er meget mere overskueligt syntes jeg 
+
+Q - Du har også ineffektiv?
+A - Ja ja og det er hænger lidt sammen med time-consuming at det der er i hvert fald ikke noget der går hurtigere fordi at man skal for mig i hvert fald at man skal ind i forskellige menuer og nu skal jeg vel have en effekt på der så skal jeg lige finde den hvad er det for en effekt jeg så vil have og så hvordan skal jeg så indstille den og det tænker jeg hurtigt man kunne så får man placeret pedalerne nogle underlige stæder i kæden og så var det måske ikke lige den man ville have alligevel og så ind og lede altså igen masser af muligheder men det (Det tager lang tid eller?) Ja lige præcis
+
+Q - Hvad syntes du det gør for din overordnede oplevelse af det sådan at du syntes der var mange af de der muligheder og sådan noget?
+A - Jamen det trækker ned i min overordnede oplevelse at det altså min overordnede oplevelse det er sådan at det er smart og det kan en masse ting men hvad kan man bruge det til når det kommer til stykket 
+
+[03.10]
+Det der med at man skal lave en eller anden indstilling på en pedal så det er ikke noget man bare lige hurtigt gør altså skal man ned lige finde pedalen lige hvad var det nu for en indstilling jeg ville lave om på og så er det den der menu man skal ind i og så okay så kan man dreje den der og med de andre der har du knapperne foran og så bare lige dit dit dit dit dit sådan (Så det der med at have det fysisk og di skal ikke ind i menuerne først og sådan noget) præcis det betyder meget for mig i hvert fald at det er meget let tilgængeligt 
+
+
+FP 8 - 2 - Helix
+[00.00]
+Q - Ja så kan jeg se at du har valgt advanced igen
+A - Ja det havde jeg også på den anden jamen det øhm jeg syntes faktisk den virker når man sådan lige kigger på den først så ik så ser den noget mere avanceret ud med at der er nogle flere knapper der er så ikke touchscreen på men øhm og så syntes jeg at hele oplevelsen med den det var altså det det gjorde at den var sådan lidt mere avanceret i forhold til at altså knapperne har mange forskellige funktioner øh nogen af dem i hvert fald og det der med lige at finde ud af at hvis jeg nu trykker på den knap nu er det så den funktion jeg godt kunne tænke mig at den skulle have den har eller er det en anden funktion fordi at den er aktiveret et eller andet sted 
+
+Q - Den manglede der information om eller?
+A - Ja på en eller anden måde det var ikke så intuitivt i hvert fald
+
+Q - Jeg kan også se at du var lige ved at vælge nøgen?
+A - Ja og det er netop i forhold til at jeg syntes der var nogle ting som øh der var at man kunne godt blive sådan lidt irriteret på og så jamen hvad er det nu man gør når man trykker her øh det var altså igen det var ikke det var ikke så intuitivt det var ikke så øh jeg syntes den anden var sådan lidt mere gik til den så havde man nogenlunde en ide om hvordan det fungerede det syntes jeg ikke det gjorde umiddelbart på Helixen
+
+Q - Du har også valgt time-consuming
+A - Ja time-consuming igen jeg syntes det tager det tager lang tid øh jeg syntes faktisk det tager længere tid på den at lige det kan godt være at det er når man først kommer ind i det så går det hurtigt men sådan lige umiddelbart og finde ud af i forhold til hvordan den virker først og så hvordan er det lige man kommer ind og finder de forskellige ting og det syntes jeg var lidt noget jeg brugte meget tid på at finde ud af hvordan kommer jeg nu ind i de der forskellige menuer man skal ind i og og så huske det bagefter det var også svært hvordan var det nu lige 
+
+(Du er jo også lige blevet kastet i det så)
+
+Det var også med til at gøre at jeg syntes at det bliver lidt svært øh og jeg ved ikke om det måske er de der knapper der der kan gøre det fordi der bliver bundet så mange forskellige funktioner op på de enkelte knapper at så bliver det lidt mere lidt sværere og fordi at man så det er den samme knap man bruger hver gang eller hver gang altså sådan og hvad er det nu lige de gør inde i de forskellige menuer det var ikke så så umiddelbart
+
+Q - Du har også kompleks det er måske også lidt derhen af?
+A - Ja det er også det der bliver den lidt kompleks at bruge ja bare at få det hele sat op og lige finde hvad effekterne og så få lavet indstillinger om og sådan noget det syntes jeg det
+
+Q - Ja og så confusing?
+A - Ja og det hænger også igen sammen med (Det hænger jo alt sammen godt sammen) Ja det er jo det
+
+Q - Hvad vil det sådan gøre ved din tilgang til det hvis nu du syntes at det er svært at finde rundt i og lige vide hvad de forskellige ting gør hvad sådan hvad gør det ved din tilgang til sådan nogle multieffektboards?
+A - Jamen det gør helt klart det har det altid gjort lige siden jeg solgte mit eget board at jeg har sådan lidt jeg er lige ved at sige aversion men det kan godt være at det er et stærkt ord jeg skænker det ikke en tanke altså jeg ikke ikke engang på det interesserer mig på ingen måde overhovedet og jeg har altid haft sådan lidt den der med at efter jeg selv havde det at jeg syntes multieffektboards er rigtig fede til at lære de forskellige effekter at kende på og hvad man kan bruge dem til og så øh ja så gjorde jeg jo det at så solgte jeg det og så købte jeg de effekter jeg gerne ville have som analog pedaler og så 
+
+Q - Så du brugte det mere til at finde ud af hvad en hvad effekterne egentlig kan bruges til så?
+A - Præcis og så og så solgte jeg det så snart jeg vidste hvad jeg gerne ville have også fordi som regel nu er der jo så sket en masse med kvaliteten men jeg tænker umiddelbart også at der er der måske er lidt federe effekter at kvaliteten måske er lidt bedre i de analoge (Sådan lydmæssigt?) Ja det kan sagtens være at det er noget gammelmands holdning men (Det er en holdning jeg har hørt flere gange i hvert fald så) Ja øhm og der er jeg bare sådan mere til øh lidt det analoge
+
+Q - Optræder du tit eller?
+A - Ja eller tit og tit jeg har da spillet en del koncerter med det band jeg spiller i
+
+Q - Og der har du så bare dit pedalboard med?
+A - Ja præcis og det er bare hurtigt lige at der er kablerne de ligger klar så de er hurtige lige at plugge i og så er man klar til at spille så det det er ikke sønderligt avanceret det kræver lidt forberedelse ikke forberedelse forberedelse bare lige sådan med at få lavet nogle hvad kan man sige nogle systemer sådan med nogle kabler der ligger fast rullet op og så kan man bare hurtigt tage dem ud og plugge i og strøm og så (Så kører det) Ja og det tager et halvt minut 
+
+Q - Hvis du nu skulle sammenligne de to bare helt overordnet hvad vil du så foretrække for et af dem?
+A - Jamen skulle jeg så umiddelbart ville jeg fortrække den første af dem den virkede lidt mere tilgængelig den var lidt mere intuitiv og bevæge sig rundt i og så tror jeg det der at den grafiske flade den hjalp utroligt meget på vej hvor jeg syntes at den anden uden at den slet ikke ligner så alligevel så minder det mig lidt om de gamle systemer den måde det var bygget op på (Så vidt jeg ved er Helixen også lige lidt ældre end Headrushen) Nå okay (Syntes jeg der var nogle der fortalte mig i går) Jamen det kan sagtens være fordi at det er lidt det samme altså det jag havde dengang havde jo bare sådan en lille digital skærm her med ikke særligt mange pixels i men det var sådan lidt det samme i princippet at man kunne køre effektkæden igennem med sådan et scrollhjul du har bare en lidt større skærm men det virker som om at det er lidt det samme den samme opbygning umiddelbart
