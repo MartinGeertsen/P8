@@ -1,0 +1,46 @@
+FP 5 - 2 - Headrush
+
+[00.27]
+S er blevet bed om at lave et nyt rig. 
+
+S - Nu har de ikke nogle trykknapper til at navigere rundt med så hvis jeg skal lave et nyt link vil jeg gætte på at det er en touchskærm det her fordi de har den her oppe.
+
+Han starter ud med at gå ind i setliste menuen. Han begynder at lave en ny setliste hvilket han får at vide og så prøver han at gå tilbage med tilbage pilen. I første omgang canceller han at gå tilbage men finder hurtigt ud af at han skal gemme eller discarde changes. Han vælger at discarde changes. Han prøver herefter med at bruge drejeknapperne til at navigere med og ser om der er nogle options i bunden af setlist menuen som han kan bruge. Han siger at overskriften setlists forvirrer ham når man nu kigger på rigs og derefter giver han op. Han for fortalt at der også er en anden menu option som han kan bruge oppe i højre hjørne. Den prøver han at åbne og så lukker han den igen fordi han ville se om det var sådan det fungerede med at lukke den igen. Han finder dog hurtigt new rig optionen og laver en new rig.
+
+[03.22]
+sæt effekter ingen problemer
+[04.29]
+ændre på effekt. Han prøver først at dragge slidebaren i siden men finder ud af at den bare hopper frem og tilbage så man kan lige så godt tappe på den. Han ved dog med det samme at det er her man skal lave indtillingerne. 
+[05.05]
+Udskift effekt. Han vælger effekten men det sker der ikke noget ved så prøver han at holde nede på effekten men heller ikke det hjælper. Han prøver så at dobbelt tappe og nu sker der noget. 
+
+S - Nej det kunne man så ikke.
+L - Er det noget bestemt du leder efter.
+S - Nej jeg ville bare se om man kunne.
+
+Han trykker på delete effekt og sletter effekten for herefter at sætte en ny en ind. 
+
+Han får forklaret at man inde under effekt menuen som han var inde under da han slettede effekten kunne have valgt en anden effekt ved at trykke på navnet for den effekt man havde.
+
+S - Der kan man det men det er jo bare ikke særligt tydeligt. Jeg tænkte at man kunne begynde at scrolle igennem forskellige, det kunne også godt være at man kunne begynde at scrolle igennem forskellige inden for samme kategori, så man kunne sige okay tri-fuzz men jeg ville egentlig gerne prøve den anden (Getsikulerer med swipe fra side til side).
+
+Næste opgave er at han skulle slette en effekt men da han har gjort det springes den over.
+
+Gem rig intet problem.
+
+[08.30]
+Set boarded til hybrid mode. Første kommentar fra S er Oh no! Han går først ind i tre prikker menuen som han omtaler som hovedmenuen. Han forsøger sig med hardware assign selvom han siger at de godt nok havde det under global settings på den anden. han finder ikke noget brugbart og går ud af den igen. Nu prøver han global settings men det er heller ikke her som han får at vide af L. Han prøver hardware assign igen 
+
+S - Det er godt nok meget farveagtigt det her.
+
+Han trykker rundt i et stykke tid inde i hardware assign og prøver både steder hvor der står mode og tre prikker menuen igen hvor han igen går ind under global settings. Nu får han at vide at han ikke kun kan løse opgaven med skærmen men bliver nødt til at bruge nogle af knapperne. Han prøver først ved at holde pedalen for den første effekt nede. han aktiverer hands free mode men det skulle han ikke bruge så han trykker på exit for at komme ud af det. Han fortsætter med at klikke formålsløst rundt på pedalerne indtil han får at vide at han skal ændre boardets view til hybrid. Han går tilbage til skærmen og bliver nødt til at have en ledetråd mere for at finde frem til det rigtige. han bliver fortalt at han selv opdagede noget der hed hold for tuner og nu opdager han funktionen hold for view. Han for den ændret til hybrid uden problemer herefter men kommenterer også at den har de fået skjult godt. 
+
+[11.39]
+Skift to effekter både grafisk og på pedaler. Grafisk er der ingen problemer han drag-n-dropper den som det første. For pedalerne forsøger han først med at holde en pedal nede som på helixen men det virker ikke. Han prøver at holde nede på effekten på skærmen men det sker der ikke noget ved. han dobbelt tapper og åbner effekt menuen men går ud af den igen fordi den ikke hjælper ham med opgaven. herefter prøver han hardware assign menuen og prøver at holde nede på en effekt, der sker ikke noget han prøver at dobbelt tappe og den åbner effekt listen så han kan skifte den ud med en anden effekt. derefter drag-n-dropper han dem og opgaven er løst.
+
+S - Det er lidt sjovt fordi den her side det ligner umiddelbart noget som bare viser et overblik det er ikke sådan helt tydeligt at man kan editere eller gøre noget i den. Det ligner næsten bare sådan en, den ser lidt statisk ud på en eller anden måde den inviterer ikke rigtig til at man kan gøre noget ved den. Den ligner bare et overview lidt ligesom global settings, det ligner også bare et overview hvor man kan se hvad man har valgt. 
+
+[13.30]
+Ændre farver. klikker en gang, prøver at holde nede, dobbelt klikker og finder farvevælgeren og ændrer farven. 
+
+S er lidt forvirret over hvorfor der står preset i effekt menuen når det nu hedder et rig i resten af systemet.

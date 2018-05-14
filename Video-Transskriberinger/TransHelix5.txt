@@ -1,0 +1,74 @@
+FP 5 - 1 - Helix
+
+[01.34]
+S - Han bladrer igennem banks for at prøve at finde et empty preset
+
+[02.05]
+L - Hvis du ovre på knappen til venstre har du muligheden for at interagere med også 
+S - Okay og den bladrer så mellem presets
+L - Den kan bladre mellem presets men den har også en funktionalitet ved at du kan trykke på den
+S - Ja okay så kommer man ind og ser en oversigt over det hele
+
+[02.38]
+S prøver at komme fra presets listen over i setlist listen ved at trykke på streg menu
+S trykker derefter på hjem knappen men det virker heller ikke 
+L hjælper ved at sige at man kan bruge joysticket
+
+S - Det var ikke helt intuitivt
+
+[03.20]
+S - Det er sådan højre venstre agtigt ligesom en helikopter det syntes jeg personligt er at begge to er navigation der kunne jeg godt tænke mig at den ene var navigation og den anden var editering agtig når man så havde men det er jo smag og behag men jeg syntes det er forvirrende at begge kan noget og man ikke kan gå og at man ikke kan gå tilbage (peger på setlist listen) ved at trykke på et eller andet
+
+Done
+
+[03.58]
+S - Så tænker jeg jo med det samme hvor vælger jeg så mine forskellige effekter eller ting og sager
+
+[04.12]
+S prøver både at dreje og trykke på joystik da den står på input og finder derfor ud af at det er samme måde man skal bruge til effekter. Han bliver dog nødt til at blive fortalt at han skal bevæge sig ud på en tom plads på linjen før han kan indsætte effekter. Her peger han på meddelelsen om at man skal trykke på joysticken og indikerer at han har set signifieren Han forventede at man skulle trykke på en eller anden knap fo at starte med at sætte effekter ind.
+
+Indsætter alle effekter uden problemer
+
+Ændrer parametre uden problemer
+
+Udskifter effekt uden problemer
+
+[07.45]
+S bliver bedt om at slette Reverben. Han starter med at lede efter en decideret slet knap/funktion inde under model listen men syntes ikke han kan finde den. Han overser None valgmuligheden i toppen og klikker ud igen. Han forsøger herefter ved at klikke på Action menuen og finder her slet funktionen. Han forsøger dog at navigere i Action menuen med joysticken men indser hurtigt at man skal bruge knapperne under skærmen til at klikke med.
+
+Done
+
+[08.16]
+S er blevet bedt om at gemme og navngive presettet. Han forsøger sig med action menuen men finder ikke en gem funktion. Herefter rykker han lidt rundt med joysticken men finder hurtigt ud af at dette heller ikke er vejen frem. Til sidst opdager han save knappen i venstre side.
+
+S - Hvorfor ligger den ikke herovre (gestikulerer mod joystick området) når man 
+
+S trykker på save knappen og kommer ind i save menuen. Han finder hirtigt ud af at man skal dreje på joysticken for at vælge bogstav men prøver herefter at trykke på joysticken for at vælge bogstavet. Efter han finder ud af at man ikke kommer videre ved at trykke er der ingen problemer han bliver dog fortalt som en sidebemærkning at man kan trykke på joysticken for at skifte mellem store og små bogstaver og tal hvilket han benytter sig af et par gange efter at have fået det at vide. Ingen problemer med at finde ud af at man skal trykke på en knap under skærmen for at gemme.
+
+Done
+
+[11.50]
+S er blevet bedt om at sætte systemet op således at presets er på øverste række og presettets effekter er på nederste række. han forsøger sig først med action menuen men finder det ikke her. Så prøver han knappen med en "kuffert" på men får at vide at det er ampen. Så prøver han med streg menuen og siger at den bliver brugt til at assigne noget med. han prøver med footswitch assign men finder ikke det han skal bruge. han går tilbage ved at trykke på streg menu knappen igen og forsøger sig med controller assign uden held. Command center finder han det heller ikke under. Han går så ind under global settings og syntes ikke han kan se det han skal bruge men prøver at gå ind under footswitches med joysticken. Han vil gerne have den til at blive ved med at stå på both rows fordi han mener at han jo skal bruge begge rækker. Han får at vide at han har løst opgaven.
+
+S - Det vra egentligt lidt heldigt fordi jeg syntes ikke at det var at det gav så meget mening at jeg skulle ind under global settings, der er både noget footswitch assign og noget controller assign men det gør jo så åbenbart noget andet som jeg ikke ved hvad er at man ikke skal ind under noget footswitch eller controller setup men at det er under global settings.
+
+S nævner også at han troede at det under global settings var det nederste skrift der stod med hvidt at han kunne ændre og ikke det øverste grå skrift. Efter opgaven kan han ikke helt finde ud af at komme tilbage til pressettet det lykkes dog for ham ved at trykke på preset knappen og vælge det øverste preset igen.
+
+Done
+
+[15.35]
+S er blevet bedt om at bytte rundt på to effekter både grafisk og på footswitches. Han starter ud med at prøve at trykke på action hvilket er korrekt men syntes ikke at han kan finde et menupunkt der gør noget med at flytte så han går ud af den igen. Han prøver at trykke lidt på footswitches men det virker heller ikke. Han prøver at klikke ind på effekten med joysticken men finder heller ikke her det han leder efter. 
+
+S - det er sjovt jeg bliver ved med at leder efter sådan en tilbage knap så man kan komme væk fra det man lige har valgt, tilbage til der hvor man var før. Det er lidt sjovt at man skal vide hvilken knap der hvor man var før var at man ikke ligesom har sådan en arh det var ikke lige det jeg skulle så vil jeg bare lige tilbage du ved ligesom på sin telefon der har man ligesom sådan en tilbage til der hvor jeg var før.
+
+S får at vide at han har været ved at gøre det rigtige før. Han har lige trykket sig ind i streg menuen men går så ud af den og prøver med action igen. Her prøver han at flytte rundt med joysticken og får rigtig nok flyttet på effekten men opdager det ikke før han har flyttet den tilbage. Nu ser han så signifieren hvor der står use joystick to move block.
+
+S - Se så sjovt er det så står det. Når jeg åbner den her side så ser jeg de her muligheder hernede og det er mine muligheder og så står der en eller anden tekst, den ligger jeg ikke rigtig mærke til. 
+
+[18.13]
+S husker at han også skulle flytte effekterne på footswitches. Han tror at det muligvis er fordi han ikke har gemt pressettet at de ikke står i den rigtige rækkefølge på pedalerne og prøver derfor at gemme. Det gjorde ikke noget. Han havde forventet at det blev opdateret når man gemte. Han forsøger sig med action men finder ikke det han leder efter. Han går tilbage med Hjem knappen og prøver streg menuen. Han forsøger sig med footswitch assign og prøver at rykke rundt med joysticken. Han prøver at trykke på pedalen for at se om effekten flytter sig derover men det gør den ikke. Han prøver herefter herefter at holde på pedalen og så trykker han ok til at han vil assigne footswitchen og det virker. Der er dog to effekter på samme pedal nu. Dette løser han dog hurtigt ved at markere den anden effekt og holde på den tomme pedal og trykke ok til at den skal flyttes. 
+
+[20.37]
+S er blevet bedt om at ændre LED farven på en effekt. Han vælger sin tremolo og vil gerne lave den rød. Han prøver først at holde på den men finder ud af at det kun har noget med assign at gøre. Han prøver sig herefter med at klikke på joysticken for at vælge blocken men kommer ind i model selector menuen. Han prøver så med action men det virker heller ikke. Han prøver med streg menuen og går ind under footswitch assign og finder muligheden for at customize. Herinde sætter han LEDen til rød og trykker ok.
+
+S - Og så har jeg fuldstændig glemt hvordan jeg fandt derind fordi det var lidt en tilfældighed men ja jeg fik løst det. 
