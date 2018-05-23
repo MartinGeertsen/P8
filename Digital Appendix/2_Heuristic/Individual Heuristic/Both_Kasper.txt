@@ -1,0 +1,22 @@
+HEADRUSH
+2. I model selector mangler der pile ved AMP og CAB til at angive at det er menupunkter.
+1. Det er ikke tydeligt at IN og OUT er knapper man kan trykke på og lave indstillinger under.
+4. Når man vil editere en en effekt kommer parametrene op i noget som ligner en scroll-bar i højre side, men man kan ikke scrolle froit i den.
+3. TAIL knap gør ingenting
+4. Knappen lige ved siden af TAIL skifter ikke kun opstillingen af pedalerne men styrer også om der køres single eller double line, hvilket jeg ikke havde forventet.
+4. STATUS knap i nederste venstre hjørne er ikke en knap selvom den ligner, den er et bogmærke og viser hvilken liste man er på.
+4. stereo logo er heller ikke en knap.
+5. I liste menuen i øverste venstre hjørne bliver listen udskiftet med en pil tilbage når man går ind i den. Jeg ville forvente at man gik tilbage til en mere overordnet menu her, men den lukke bare menuen ned så man "går tilbage" til startskærmen.
+6. Save knappen er der altid og går ikke væk efter man har trykket save, dette får mig til at blive i tvivl om om jeg har gemt mine ændringer.
+8. For at finde discard changes skal man ind i en menu der er angivet ved tre prikker, og man kan kun fortryde alt. Det er ikke muligt at gå tilbage step-by-step.
+5. I menuen med de tre prikker finder man også et punkt der hedder hardware assign, dette ville jeg tro var noget meget teknisk men det er faktsik en sidemenu hvori man selv kan bestemme på hvilken pedal en bestemt effekt skal ligge. Denne funktionalitet er meget vigtig og for svær at finde frem til.
+2. I hardware assign menuen er der en bar med farver i som bliver brugt til at skifte farve på effekten i den enkelte effekts menu, men her gør den ingen ting.
+2. I hardware assign menuen kan MIDI prog kun styres med "push to enter" drejeknappen hvorimod alt andet har været tilgængeligt med touch.
+2. I hardware assign menuen er der igen en scroll-bar i siden men denne gang er det individuelle knapper som kan skiftes ud ligesom effekterne på hovedskærmen. Dette gør det muligt at vælge tre indstillinger som man gerne vil have quick access til, disse kan dog ikke ændres direkte fra startskærmen.
+5. Ved tre prikker menuen er der et menu punkt der hedder close menu, det plejer ikke at være cotume at have et menupunkt der lukker dropdown menuen du har åben. 
+Hvis man er inde i listemenuen får man igennem tre prikker menuen også muligheden for close menu, her ville jeg forvente at den lukkede listemenuen men den lukker stadig kun for den lille drop down menu.
+
+HELIX
+8. Der er ingen måde at gå tilbage i valg som man har truffetunder redigeringen af en effekt, man bliver nødt til at skifte over til en anden effekt uden at gemme og så bliver effekten sat tilbage til sidste gemte stadie.
+10. Når man går ind i presets menuen starter man ud med at være i en setliste med alle ens presets. dette gør man med preset dialen. men man kan ikke komme ud af preset listen og ud i listen med setlister. Her skal man bruge joysticken.
+6. Når jeg skifter imellem exp pedaler bypasser den nogle af effekterne selvom de er bundet rigtigt.

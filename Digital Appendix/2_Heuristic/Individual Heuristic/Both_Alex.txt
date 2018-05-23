@@ -1,0 +1,42 @@
+Headrush
+
+overall
+	cannot control all aspects with only the scroller needs to use touch
+	when using scroller from way down and going up fast, when nearing top marking will jump to top bar before the list is at its first point
+	when the scrollers to the right of the screen is enabled the scrolling function on the screen seems odd
+
+setlists page
+	needs to use touch to use get to the options for each setlist
+	no indication that you can scroll
+	
+new setlist
+	draggin via touch seems to get  confused with scrolling
+	makes a space every fourth entry on the setlist
+
+Global settings
+	inconsistency when using the scroller when clicking and scrolling "FX-LOOP STEREO" and "PROG CHANGE"
+	when using touch cannot change the "LCD BGRIHTNESS" and "SOURCE" and "MIDI CHANNEL" needs to use scroller here
+	when using touch to change between "LCD BGRIHTNESS" and "SOURCE" and "MIDI CHANNEL" and then afterwards use the scroller to click away from it, scrolling counterclockwise will return you to the first setting, while turning it clockwise will move you one position in the wrong direction
+
+Effect page
+	amps(and other effect without the pedal button) does not look like you can press them to turn them off on the screen(looking at the pedals below the screen helps this) the button below the pictures are wierd, since there is a button on the expression pedal, and not under it.
+	the "IN" and "OUT" does not look like you can press them(but then again if you couldn't would they be there?)
+	when changing to new effects without doing anything asks if i want to save or discard changes
+	sometimes the order of the pedals does not correspond to the possition of the pedals on the screen
+
+Model selector
+	first colomn uses the arrows on the right to shown there is more when you click this, after clicking it the second colomn does not have arrows, but sometimes there is still more when you click it, but it seems no more than 3 colomns
+	the empty slot option has an "X" which does the same thing as clicking the button
+	
+Hardware Assign
+	feels like you should be able to click the expression pedal
+
+.....
+
+
+Helix
+
+	All editing buttons are turn and press buttons, except the joystick but this is clearly marked
+	turning the joystick button just cycles trough all of the effects no matter where you are in the editing
+	turning the buttons under the screen really fast makes the editing number jump
+	when saving presets, feels wierd that you dont select the letters you want to use

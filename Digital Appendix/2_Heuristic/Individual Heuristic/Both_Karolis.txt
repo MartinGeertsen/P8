@@ -1,0 +1,99 @@
+Heuristic evaluation - Headrush
+
+
+The options on the right, can ONLY be controlled with the buttons and no touch possbilities is aviable. 
+When trying to see what's more in the options menu(the same as above), it won't work. It only works with clicks. These clicks makes an instant effect of a scrolling to the other buttons that are not seen in the main screen. (Give pictures)
+You can easily be confusied if you are going to see more options or if your just browsing through the same options..
+It is easy to see when you are at the button, when there is only one more option left(because then there'll be a big space with notthing, to indicate, that you have reached the end of the options.
+
+
+
+The mapping from the board and the touch screen is not the same.
+
+
+Maximum of 8 Different presets or effect at one time.
+The are maching the numbers of pushbuttons on the board from the screen.
+Other layouts gives more options, but it is confusing.
+
+It is possible to move the effect to another place on the screen, but it doesn't effect the position on the buttons.
+
+No indiaction of where i am (ON THE RIG, Bank).. 
+
+
+Limited areas to click on. But i cannot get to the part of where i shut down the tempo and change the location of what i see on the screen and what is on the buttons.
+
+
+When searching at the effects, it got the same colors on every option. But when choosing a certain option, the certain option have the same colors in the same category, e.g. Distortion have the color of Yellow, of and of its sub effects, but it's only shown when have choosen the effect, not before.
+
+When using the buttons i takes ages to turn it (THe big PISH TO ENTER)
+The others are way faster (To the right).
+
+Need more microcopying in the settings. Some of them doesn't make sens of what they do. E.g: Assignments (AUTO ASSIGN) ON/OFF.. But what does it auto assign for?
+
+Way faster to get into.
+But the above approvements have to be done, before it it useable.
+
+
+.....
+
+Helix Line 9
+
+
+
+Potition:
+You can't see the screen or the signifiers on the interface when sitting on a chair, while the multi-board is on a table.
+- It needs to be on my hibs before i can see everything clearly.
+
+
+Touchscreen? maybe not.
+When playing around with the Settings, you often get the feeling of wanting to touch the screen, as a touch screen. (The indicators make it seems touchable)
+
+
+
+When you turn of the multiboard, and starting it again, it'll then start at the song you were at, before the turnoff of the multiboard.
+
+Volume knapperne drejer 300 grader, men har ingen indikator på hvor meget det kan skure up.  (altså hvor grænsen er, den stopper når den ikke kan dreje mere, uden at det er vist hvor den kan dreje til)
+- Manglende feedback kunne komme på skærmen.
+
+
+Konstant blinken:
+Når jeg er inde på en preset, så blinker nederste knap i højre hjørne konstant.
+"TAP""HOLD FOR TUNER" - i caps. 
+- When i gently touch it, it goes into another menu... ? -> Tempo.. Hardware error?
+
+No indication on WHAT the joy stick is..
+
+When you are using the jou stick, i can often create random effects as you browes through  a preset. (Or when creating a preset)
+
+You want to use the other buttons as a joy stick too, because it got the same form and size as the joy stick.
+
+Some of the buttons gives you a way to get back, to the position you were in. But some dosent' and can make confusion on how to get back of where you were.
+
+Home doesn't work as intent (it goes to the effect it self, and not the main menu)
+You'll have to click on the preset menu, before you can acces the "main menu"
+
+One button dedicated to edit with your feets, most right side of the push buttons. "MODE" "HOLD TO EDIT"
+
+When nameing, you are not using buttons to confirm but i'll jump to a fixed location, as in From A to a (From capital letters to lower case letters)
+The delete, only deletes the row you are on, an not continueing to delete more.
+-IT deletes everything after it, if you contiinue to push the button.
+
+
+You can only go down one click at the time, which means when you hold it down. I does't go down. eventho when you have a lot of effects and want to scroll down to the buttom.
+
+
+When i try to edit a effect, while im in the selection menu of choosing an effect, it keeps going on to some other settings, that i have no idea what does.
+-It controls the Tempo. Which can be changed, when only touching it and not pushing it. 
+- This is iretation when changeing the parameters on the effect or presets. (when controlling the menus on the screen)
+
+The bypass is hard to see, expecially when you have more than one effect. 
+
+
+
+No idea how to get more effects on one preset.
+
+You´ll get no warnings, if you forgot to save.
+- Found out, after i searched through the other presets that already was on the board.
+
+
+
