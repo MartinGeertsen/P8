@@ -1,0 +1,52 @@
+Metode - Billeder i task (ændre de eksisterende billeder, samt tilføj nye, hvis der er behov).
+
+Headrush
+
+Task 1 
+(Headrush)
+-Måske et billede af hvordan setlist knappen ser ud.
+- Lav en markering af hvad som er setlist menu, og hvad menu er.
+
+Task 3
+Headrush
+- Billede af at der er mere i menuen til højre. 
+
+Task 4
+- After double tapping an effect. Show the picture of where to change an effect.
+
+Task 7
+Henvis til task 1 
+
+Task 8
+Henvis til det globale billede af Headrush, som viser alle knapper, og ud fra det vise knappens placering ift. resten.
+
+Task 9
+Vis hardware assign, og hvor den kan findes. Efter man trykker på menu.
+
+Task 10
+Henvis til task 4
+
+Helix
+Task 1 (Helix) Make a new preset.
+- Billede af preset knob and joystick. 
+(Henvis til billede i architecture)
+
+Task 3
+Replace the current picture
+
+Task 5
+Vis None option
+
+Task 6
+Vis hvor man navigere med navigationen og hvordan man ændre tal og numre. 
+
+Task 8
+Vis et billede af global settings
+
+Task 10
+Hvis billede fra footswitch assign, at man skal trykke på customieze.
+
+**
+Billede kun af Editations-delen.
+- Som viser at der også er menu/indstillinger 
+- På selve boarded (i bunden)
